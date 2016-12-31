@@ -1,6 +1,6 @@
 {
   "name": "dynamic-class",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AngularJS directive such that an element's has a class added or removed based on its value.",
   "main": "dist/dynamic-class.js",
   "scripts": {

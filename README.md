@@ -1,6 +1,11 @@
 # dynamic-class
 AngularJS directive such that an element's has a class added or removed based on its value
 
+[on npm](https://www.npmjs.com/package/dynamic-class)
+
+[![Latest release](https://img.shields.io/github/release/pstrinkle/dynamic-class.svg)](https://github.com/pstrinkle/dynamic-class/releases/latest)
+[![npm](https://img.shields.io/npm/v/dynamic-class.svg)](https://www.npmjs.com/package/dynamic-class)
+
 # Usage
 
 Given some element in the DOM, you attach an `options` and a `value` that you want to use as input to the directive, `dynamic-class`.  
