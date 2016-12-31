@@ -1,0 +1,21 @@
+{
+  "name": "dynamic-class",
+  "version": "1.0.0",
+  "description": "AngularJS directive such that an element's has a class added or removed based on its value.",
+  "main": "dist/dynamic-class.js",
+  "scripts": {
+  },
+  "dependencies": {
+    "angular": "^1.5.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pstrinkle/dynamic-class.git"
+  },
+  "author": "Patrick Trinkle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pstrinkle/dynamic-class/issues"
+  },
+  "homepage": "https://pstrinkle.github.com/dynamic-class"
+}
