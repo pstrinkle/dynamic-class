@@ -6,8 +6,14 @@ AngularJS directive such that an element's has a class added or removed based on
 [![Latest release](https://img.shields.io/github/release/pstrinkle/dynamic-class.svg)](https://github.com/pstrinkle/dynamic-class/releases/latest)
 [![npm](https://img.shields.io/npm/v/dynamic-class.svg)](https://www.npmjs.com/package/dynamic-class)
 
-# Usage
+# Installing
+Installing package via **NPM** <br/>
+`npm i dynamic-class --save`
 
+Installing package via **Bower** <br/>
+`bower install dynamic-class --save`
+
+# Usage
 Given some element in the DOM, you attach an `options` and a `value` that you want to use as input to the directive, `dynamic-class`.  
 The `options` should be an array of Objects each with three keys: `min` the minimum value to use for this class, `max` the value strictly 
 greater than and the `class` to use.  As the value specified changes a class is chosen and applied to the DOM element given the options 
